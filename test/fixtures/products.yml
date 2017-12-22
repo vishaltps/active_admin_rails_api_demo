@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  name: MyString
+  description: MyString
+  actual_price: 9.99
+  offered_price: 9.99
+  quantity: 1
+  type: 
+  manufacture_date: 2017-12-22
+  sub_category: one
+
+two:
+  title: MyString
+  name: MyString
+  description: MyString
+  actual_price: 9.99
+  offered_price: 9.99
+  quantity: 1
+  type: 
+  manufacture_date: 2017-12-22
+  sub_category: two
